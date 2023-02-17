@@ -26,8 +26,6 @@ helm upgrade --atomic nginx nginx/ --set replicaCount=5
 
 <img width="949" alt="image" src="https://user-images.githubusercontent.com/117667360/219619476-bb157896-5edd-46f9-a349-a5ddbe65b296.png">
 
-Pacman
-
 * Deploy pacman
 ```
 helm install pacman pacman/
